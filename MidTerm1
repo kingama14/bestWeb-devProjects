@@ -1,0 +1,61 @@
+<html>
+<head>
+<title>Registration</title>
+    <link href="style2.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<div class="container">
+<img src="logo-Transparent.png">
+  <form>
+    <div class="qwe-submit">
+      <input type="text" name="username" placeholder="Введите имя">
+    </div>
+    <div class="qwe-submit">
+      <input type="text" name="password" placeholder="Введите пароль">
+    </div>
+    <input type="checkbox" value="1" name="remember">Запомнить имя<br>
+    <input class="qwe-submit" type="submit" name="submit">
+      <h2><a href="index.html">Войти</a></h2>
+  </form>
+</div>
+</body>
+</html>
+
+<html>
+<head>
+<title>Melofy</title>
+<link href="style.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+    <header>
+        <div class="row">
+
+            <div class="logo">
+            <img src="logo-Transparent.png">
+            </div>
+  
+            <ul class="main-nav">
+                <li class="active"><a href="#">DJHome</a></li>
+                <li><a href="index(mg).html">Martin Garrix</a></li>
+                <li><a href="index(aw).html">Alan Walker</a></li>
+                <li><a href="index(mello).html">Marshmello</a></li>
+                <li><a href="index(dg).html">David Guetta</a></li>
+                <li><a href="index(kygo).html">Kygo</a></li>
+                <li><a href="index(Avicii).html">Avicii</a></li>
+            </ul>
+        </div>
+        <div class="title">
+            <h1>Melofy</h1>
+        </div>
+         <div class="qwe">
+         <h5>A disc jockey, often abbreviated as DJ, is a person who plays existing recorded music for a live audience. Most common types of DJs include radio DJ, club DJ who performs at a nightclub or music festival and turntablist who uses record players, usually turntables, to manipulate sounds on phonograph records. Originally, the disc in disc jockey referred to gramophone records, but now DJ is used as an all-encompassing term to describe someone who mixes recorded music from any source, including cassettes, CDs or digital audio files on a CDJ or laptop. The title DJ is commonly used by DJs in front of their real names or adopted pseudonyms or stage names.</h5>
+            </div>
+        
+
+    </header>
+
+    
+
+</body>
+
+</html>
