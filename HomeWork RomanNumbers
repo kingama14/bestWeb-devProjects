@@ -1,0 +1,52 @@
+<html>
+<body>
+      <input type="text" id="input"/>
+   
+ <button   id="button">Convert</button>
+    <ul id="Mylist">
+    </ul>
+</body>
+<script src="index.js">
+let button =document.getElementById("button");
+let input=document.getElementById("input");
+let list=document.getElementById("myList");
+button.addEventListener("click", function()){
+    let par = document.createElement("li");
+    let answer:
+    switch(parseInt(input.value())){
+           case 1:
+           answer = "I";
+           break;
+           case 2:
+           answer = "II";
+           break;
+           case 3:
+           answer = "III";
+           break;
+           case 4:
+           answer = "iV";
+           break;
+           case 5:
+           answer = "V";
+           break;
+           case 6:
+           answer = "VI";
+           break;
+           case 7:
+           answer = "VII";
+           break;
+           case 8:
+            answer = "VIII";
+           break;
+           case 9:
+            answer = "IX";
+           break;
+           case 10:
+            answer = "X";
+           break;
+           }
+par.textcontent = answer;
+list.appendChild(par);
+    }
+</script>
+</html>
