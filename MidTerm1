@@ -25,6 +25,13 @@
 <head>
 <title>Melofy</title>
 <link href="style.css" rel="stylesheet" type="text/css">
+<style>
+    .zxc{
+    background:lightblue;
+    }
+    
+</style>
+ 
 </head>
 <body>
     <header>
@@ -48,13 +55,19 @@
             <h1>Melofy</h1>
         </div>
          <div class="qwe">
-         <h5>A disc jockey, often abbreviated as DJ, is a person who plays existing recorded music for a live audience. Most common types of DJs include radio DJ, club DJ who performs at a nightclub or music festival and turntablist who uses record players, usually turntables, to manipulate sounds on phonograph records. Originally, the disc in disc jockey referred to gramophone records, but now DJ is used as an all-encompassing term to describe someone who mixes recorded music from any source, including cassettes, CDs or digital audio files on a CDJ or laptop. The title DJ is commonly used by DJs in front of their real names or adopted pseudonyms or stage names.</h5>
+         <h5>A disc jockey, often abbreviated as DJ, is a person who plays existing recorded music for a live audience. Most common types of DJs include radio DJ, club DJ who performs at a nightclub or music festival and turntablist who uses record players, usually turntables, to manipulate sounds on phonograph records. The title DJ is commonly used by DJs in front of their real names or adopted pseudonyms or stage names.</h5>
             </div>
         
 
     </header>
-
-    
+    <div class="zxc">
+<h2>DJ Magazine (also known as DJ Mag) is a British monthly magazine dedicated to electronic dance music and DJs. Founded in 1991, the magazine is adapted for distribution in the United Kingdom, United States, Spain, France, Italy, Latin America, China, South Korea, Indonesia and Netherlands.</h2>
+    <ul><h2>DJ Magazine currently includes:</h2>
+        <li><h2>DJ Mag — A monthly print magazine, launched in 1991 it is currently published under licence by Thrust Publishing Ltd.</h2></li>
+        <li><h2>DJ Mag Ibiza — Specialist printed magazine published in Ibiza Spain and has print run is over 100,000 copies.</h2></li>
+        <li><h2>Top 100 DJs Poll — This is the world's leading DJ Poll and currently attracts a large number of voters per year and an estimated 10 million people viewing the result of poll when published.</h2></li>
+    </ul>
+    </div>
 
 </body>
 
